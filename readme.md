@@ -9,7 +9,7 @@ Desde então estou estudando programação seguindo na linha do Front-end e semp
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-6610F2?style=for-the-badge&labelColor=6610F2&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" /></a>
 
-  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/emillyperin" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/emillyperin"/>
   </a>
 </p>  
