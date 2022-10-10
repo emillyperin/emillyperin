@@ -6,7 +6,7 @@ Desde então estou estudando programação seguindo na linha do Front-end e semp
 
 💬 Caso queira entrar em contato comigo: 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:emilyperin5@gmail.com?" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-6610F2?style=for-the-badge&labelColor=6610F2&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" /></a>
 
   <a href="https://www.linkedin.com/in/emillyperin" alt="Linkedin">
