@@ -36,7 +36,7 @@ Desde então estou estudando programação seguindo na linha do Front-end e semp
 
 <h3>👾 Informações sobre minha conta GitHub</h3>
 
-[![card](https://github-readme-stats.vercel.app/api?username=emillyperin&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)   [![card](https://github-readme-stats.vercel.app/api/top-langs/?username=emillyperin&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=emillyperin&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![card](https://github-readme-stats.vercel.app/api/top-langs/?username=emillyperin&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
