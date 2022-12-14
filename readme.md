@@ -1,8 +1,9 @@
 ##  🦄 Olá, meu nome é Emily!
 
-> Hoje estou fazendo o que amo, trabalhando com desenvolvimento web na Tezus e aprendendo constantemente.
-A área de programação me despertou interesse quando me tornei analista de processos de negócio, onde muitas vezes acompanhava de perto o desenvolvimento de scripts e regras. Então, por hobby, comecei a pesquisar e entender mais sobre o assunto.
-Desde então estou estudando programação seguindo na linha do Front-end e sempre buscando aprimorar meus conhecimentos através de cursos e eventos.
+> Hoje estou fazendo o que amo, trabalhando com desenvolvimento web e aprendendo constantemente.<br><br>
+A área de programação me despertou interesse quando me tornei analista de processos de negócio, onde muitas vezes acompanhava de perto o desenvolvimento de scripts e regras. Então, por hobby, comecei a pesquisar e entender mais sobre o assunto e a partir daí venho aperfeiçoando meus conhecimentos através de cursos e eventos seguindo na linha do Front-end. <br><br>
+Atualmente trabalho na Tezus, onde adquiri experiência em HTML5, PHP,  CSS3, JavaScript, Magento, Wordpress, Docker, Bootstrap, Responsividade, Mobile First, GitHub e o básico de pré-processadores CSS. Além disso, possuo inglês nível intermediário e recentemente iniciei meus estudos em React.
+
 
 <br>
 
