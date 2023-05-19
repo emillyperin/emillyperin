@@ -26,10 +26,14 @@ Meu interesse em programação  surgiu enquanto trabalhava como analista de proc
 <p align='left'>
 <code><img src="https://skillicons.dev/icons?i=html&theme=dark" alt=""></code>
 <code><img src="https://skillicons.dev/icons?i=css&theme=dark" alt=""></code>
+<code><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt=""></code>
+<code><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt=""></code>
 <code><img src="https://skillicons.dev/icons?i=js&theme=dark" alt=""></code>
+<code><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt=""></code>
+<code><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt=""></code>
+<code><img src="https://skillicons.dev/icons?i=prisma&theme=dark" alt=""></code>
 <code><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt=""></code>
 <code><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt=""></code>
-<code><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt=""></code>
 </p>
 
 ---
