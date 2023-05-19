@@ -1,7 +1,7 @@
 ##  🦄 Olá, meu nome é Emily!
 
 > Desenvolvedora Front-end apaixonada pela criação de soluções digitais desafiadoras. <br><br>
-Meu interesse em programação  surgiu enquanto trabalhava como analista de processos de negócio, e desde então tenho aprimorado constantemente meus conhecimentos em HTML5, PHP, CSS3, JavaScript, Adobe Commerce, Wordpress, Docker, Bootstrap, Responsividade, Mobile First e pré-processadores CSS. <br><br>Na Tezus, tenho trabalhado com desenvolvimento de e-commerces utilizando a plataforma Magento, entregando soluções digitais personalizadas para atender às necessidades dos nossos clientes.<br><br>Além disso, estou sempre em busca de novas oportunidades para aplicar meus conhecimentos e ajudar a resolver problemas. Tenho um compromisso contínuo em aprender e desenvolver minhas habilidades profissionais, e estou dedicando esforços para alcançar a fluência em inglês.
+Meu interesse em programação  surgiu enquanto trabalhava como analista de processos de negócio, e desde então tenho aprimorado constantemente meus conhecimentos em HTML5, PHP, CSS3, Tailwind CSS, JavaScript, NextJS, NodeJS, Adobe Commerce, Wordpress, Docker, Bootstrap, Responsividade e Mobile First. <br><br>Na Tezus, tenho trabalhado com desenvolvimento de e-commerces utilizando a plataforma Magento, entregando soluções digitais personalizadas para atender às necessidades dos nossos clientes.<br><br>Além disso, estou sempre em busca de novas oportunidades para aplicar meus conhecimentos e ajudar a resolver problemas. Tenho um compromisso contínuo em aprender e desenvolver minhas habilidades profissionais, e estou dedicando esforços para alcançar a fluência em inglês.
 
 
 <br>
