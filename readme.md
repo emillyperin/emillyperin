@@ -1,12 +1,11 @@
-##  🦄 Olá, meu nome é Emily!
+##  🦄 Hello, my name is Emily!
 
-> Desenvolvedora Front-end apaixonada pela criação de soluções digitais desafiadoras. <br><br>
-Meu interesse em programação  surgiu enquanto trabalhava como analista de processos de negócio, e desde então tenho aprimorado constantemente meus conhecimentos em HTML5, PHP, CSS3, Tailwind CSS, JavaScript, NextJS, NodeJS, Adobe Commerce, Wordpress, Docker, Bootstrap, Responsividade e Mobile First. <br><br>Na Tezus, tenho trabalhado com desenvolvimento de e-commerces utilizando a plataforma Magento, entregando soluções digitais personalizadas para atender às necessidades dos nossos clientes.<br><br>Além disso, estou sempre em busca de novas oportunidades para aplicar meus conhecimentos e ajudar a resolver problemas. Tenho um compromisso contínuo em aprender e desenvolver minhas habilidades profissionais, e estou dedicando esforços para alcançar a fluência em inglês.
-
+> Front-end developer passionate about creating challenging digital solutions, currently pursuing a degree in Systems Analysis and Development to further enhance my knowledge base. <br><br>
+My interest in programming arose while working as a process analyst, and since then I have constantly improved my skills in HTML5, CSS3, Tailwind CSS, Less, JavaScript, NextJS, PHP, Python, Docker, Bootstrap, jQuery, Responsiveness, and Mobile First. <br><br>At Webjump, I have been working on e-commerce development using the Adobe Commerce platform, delivering customized digital solutions to meet our clients' needs.<br><br>Additionally, I am always seeking to learn and develop my professional skills, and I am also making efforts to achieve fluency in English.
 
 <br>
 
-💬 Caso queira entrar em contato comigo: 
+💬 If you want to contact me: 
 
 <p></p>
 
@@ -21,7 +20,7 @@ Meu interesse em programação  surgiu enquanto trabalhava como analista de proc
 
 ----
 
-<h3> 🚀 Minhas Skills </h3>
+<h3> 🚀 My Skills </h3>
 
 <p align='left'>
 <code><img src="https://skillicons.dev/icons?i=html&theme=dark" alt=""></code>
@@ -38,7 +37,7 @@ Meu interesse em programação  surgiu enquanto trabalhava como analista de proc
 
 ---
 
-<h3>👾 Informações sobre minha conta GitHub</h3>
+<h3>👾 Information about my GitHub account</h3>
 
 [![card](https://github-readme-stats.vercel.app/api?username=emillyperin&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![card](https://github-readme-stats.vercel.app/api/top-langs/?username=emillyperin&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
