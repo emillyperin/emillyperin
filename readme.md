@@ -1,7 +1,11 @@
 ##  🦄 Hello, my name is Emily!
 
-> Front-end developer passionate about creating challenging digital solutions, currently pursuing a degree in Systems Analysis and Development to further enhance my knowledge base. <br><br>
-My interest in programming arose while working as a process analyst, and since then I have constantly improved my skills in HTML5, CSS3, Tailwind CSS, Less, JavaScript, NextJS, PHP, Python, Docker, Bootstrap, jQuery, Responsiveness, and Mobile First. <br><br>At Webjump, I have been working on e-commerce development using the Adobe Commerce platform, delivering customized digital solutions to meet our clients' needs.<br><br>Additionally, I am always seeking to learn and develop my professional skills, and I am also making efforts to achieve fluency in English.
+>Front-end Developer specialized in e-commerce solutions, with strong experience building scalable and high-performance storefronts on Adobe Commerce (Magento 2). <br><br>
+Currently at Webjump, developing custom storefronts with a focus on performance, responsiveness, and UX best practices.<br><br>
+Strong foundation in HTML5, CSS3, JavaScript, Less, Tailwind CSS, and Bootstrap. Experienced in Magento front-end architecture, including Knockout.js, jQuery, PHP, Docker, and component-based development.<br><br>
+Also building knowledge in React and Next.js, focusing on modern and scalable web applications.<br><br>
+Graduated in Systems Analysis and Development.<br><br>
+Passionate about solving complex problems and building impactful digital experiences, I'm always looking for new challenges, and currently working towards English fluency to expand my global opportunities.
 
 <br>
 
@@ -34,12 +38,6 @@ My interest in programming arose while working as a process analyst, and since t
 <code><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt=""></code>
 <code><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt=""></code>
 </p>
-
----
-
-<h3>👾 Information about my GitHub account</h3>
-
-[![card](https://github-readme-stats.vercel.app/api?username=emillyperin&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![card](https://github-readme-stats.vercel.app/api/top-langs/?username=emillyperin&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
